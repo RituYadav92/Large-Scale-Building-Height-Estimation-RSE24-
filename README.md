@@ -1,11 +1,11 @@
-## [How High are We? Large-Scale Building Height Estimation Using Sentinel-1 Sar and Sentinel-2 Msi Time Series](https://www.sciencedirect.com/science/article/pii/S0034425724005820) [Remote Sensing of Environment] 
+## [How High are We? Large-Scale Building Height Estimation Using Sentinel-1 Sar and Sentinel-2 Msi Time Series](https://www.sciencedirect.com/science/article/pii/S0034425724005820)
 
 We propose T-SwinUNet, an advanced DL model for large-scale building height estimation leveraging Sentinel-1 SAR and Sentinel-2 multispectral time series. The model was trained and evaluated on data from the Netherlands, Switzerland, Estonia, and Germany, and its generalizability is evaluated on an out-of-distribution (OOD) test set from ten additional cities from other European countries. T-SwinUNet predicts building height with a Root Mean Square Error (RMSE) of 1.89 m, outperforming state-of-the-art models at 10 m spatial resolution. Its strong generalization to the OOD test set (RMSE of 3.2 m) underscores its potential for low-cost building height estimation across Europe, with future scalability to other regions. Furthermore, the assessment at 100 m resolution reveals that T-SwinUNet (0.29 m RMSE, 0.75 R^2) also outperformed the global building height product GHSL-Built-H R2023A product(0.56 m RMSE and 0.37 R^2). 
 
 <img src="https://github.com/RituYadav92/Large-Scale-Building-Height-Estimation/blob/main/TSwinUnet/assets/figures/dataset_location.png" alt="Sites" width="500" height="400">
 
 ### 🎉 Manuscript
-https://www.sciencedirect.com/science/article/pii/S0034425724005820
+Remote Sensing of Environment - https://www.sciencedirect.com/science/article/pii/S0034425724005820
 
 Also at  👉 [EGU 2024](https://meetingorganizer.copernicus.org/EGU24/EGU24-4493.html) & 
          👉 [ESA URBIS 2024](https://www.conftool.pro/urbis24/index.php?page=browseSessions&form_session=71&presentations=hide)
