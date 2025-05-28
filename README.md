@@ -39,6 +39,10 @@ python predict.py \
     --data_root "TEST DATA PATH"
 ```
 
+### 🎉 Dataset
+Dataset : [M4Heights ](https://huggingface.co/datasets/Rituxx96x/M4Heights)
+Please note that this is not the exact dataset used in the training. However, M4Heights contains the needed Sentinel-1, Sentinel-2 time series and the references for three out of four countries used in this work. We hope the dataset is useful for the task. Please check the dataset instructions before use, and can always contact us for more details.
+
 ### 📈 Results
 
 <img src="https://github.com/RituYadav92/Large-Scale-Building-Height-Estimation/blob/main/TSwinUnet/assets/figures/Quant.jpg" alt="Sites" width="900" height="145">
