@@ -8,7 +8,7 @@ We propose T-SwinUNet, an advanced DL model for large-scale building height esti
 Remote Sensing of Environment - https://www.sciencedirect.com/science/article/pii/S0034425724005820
 
 Also at  👉 [EGU 2024](https://meetingorganizer.copernicus.org/EGU24/EGU24-4493.html) & 
-         👉 [ESA URBIS 2024](https://www.conftool.pro/urbis24/index.php?page=browseSessions&form_session=71&presentations=hide)
+         👉 [ESA URBIS 2024](https://urbis24.esa.int/urbis24-agenda/index9f7c.html?page=browseSessions&form_session=71&presentations=hide)
 
 
 ### 🛠️ Setup
